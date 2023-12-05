@@ -5,6 +5,6 @@ A linguagem Python foi utilizada para execução das análises.
 ## Série histórica do desemprego
 
 <p align="center">
-  <img src="taxa de desocupação USA.png.png" width="400" />
-  <img src="taxa de desocupação BRASIL.png.png" width="400" /> 
+  <img src="taxa_desocupacao_usa.png" width="400" />
+  <img src="taxa_desocupacao_bra.png" width="400" /> 
 </p>
